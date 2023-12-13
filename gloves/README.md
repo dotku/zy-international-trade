@@ -1,5 +1,7 @@
 # Gloves
 
+> We are delivering High-Quality gloves for Medical Exam, Food Safety and industirial need.
+
 ![image](https://zyintltrade.com/wp-content/uploads/2020/06/926970-1.jpg)
 
 ## Stock
