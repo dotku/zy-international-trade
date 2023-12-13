@@ -1,6 +1,6 @@
 # Gloves
 
-## Liquidation
+## Stock
 
 | Model    | Qty/Box | Price/Case | In Stock | Package         | Grade                                 | Qty by Case | Truck Total  |
 |----------|---------|------------|----------|-----------------|---------------------------------------|-------------|--------------|
@@ -10,4 +10,8 @@
 | KingFa   | 100ct   | $22.73     | Yes      | 10 Boxes/Case   | Medical Exam, Chemo Rated, Food Safety| 360         | $8,182.80    |
 | Total    | -       | -          | -        | -               | -                                     | 2593        | $73,260.89   |
 
+Edge is in liquidation status, contact us for more content.
+
+* Mobile/Text: (416)851-1937
+* email: [dkwholesale2020@gmail.com](mailto:dkwholesale2020@gmail.com)
 
