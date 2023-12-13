@@ -1,5 +1,7 @@
 # ZY International Trade
 
+![ZY International Trade cover](https://zyintltrade.com/wp-content/uploads/2020/06/926970-1.jpg)
+
 ZY International Trade inc. is an international trading company located in Atlanta Georgia. 
 We source and distribute high-quality medical supplies and personal protective equipment (PPE) globally.
 
