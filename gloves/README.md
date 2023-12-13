@@ -16,6 +16,6 @@
 
 Edge is in liquidation status, contact us for more content.
 
-* Mobile/Text: (416)851-1937
+* Mobile/Text: (416) 851-1937
 * email: [dkwholesale2020@gmail.com](mailto:dkwholesale2020@gmail.com)
 
