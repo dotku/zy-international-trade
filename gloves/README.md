@@ -12,6 +12,7 @@
 | Rhino    | 100ct   | $22.73     | Yes      | 10 Boxes/Case   | Medical Exam, Chemo Rated, Food Safety| 133         | $3,023.09    |
 | Sritrang | 250ct   | $56.83     | Yes      | 10 Boxes/Case   | Medical Exam, Chemo Rated, Food Safety| 420         | $23,868.60   |
 | KingFa   | 100ct   | $22.73     | Yes      | 10 Boxes/Case   | Medical Exam, Chemo Rated, Food Safety| 360         | $8,182.80    |
+| UltraStretch | 100ct | $36.00 | Yes | 10 boxes/case | Medical Exam, Chemo Rated, Food Safety | 10,000 | $36,000.00 |
 | Total    | -       | -          | -        | -               | -                                     | 2593        | $73,260.89   |
 
 Edge is in liquidation status, contact us for more content.
